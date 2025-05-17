@@ -1,7 +1,7 @@
 import './App.css'
 import Card from './components/Card'
 import Header from './components/Header'
-import Avatar from './components/avatar.jsx'
+import Avatar from './components/Avatar'
 
 function App() {
 
